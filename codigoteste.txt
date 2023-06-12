@@ -1,0 +1,10 @@
+program sum;
+
+var y := integer;
+
+begin
+
+x := 10.2;
+y := 20;
+sum := (x / y);
+end
